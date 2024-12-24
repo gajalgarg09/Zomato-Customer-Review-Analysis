@@ -1,6 +1,5 @@
 # Zomato-Customer-Review-Analysis
-This project analyzes Zomato customer reviews to classify sentiments as positive or negative using Natural Language Processing (NLP) techniques.
-
+The project preprocesses customer reviews, trains a Naive Bayes classifier, and evaluates its performance to classify sentiments as positive or negative.
 # Features
 Cleans and preprocesses text data.<br>
 Converts reviews into numerical vectors using Bag of Words.<br>
