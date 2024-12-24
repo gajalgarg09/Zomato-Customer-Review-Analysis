@@ -17,5 +17,5 @@ Matplotlib<br>
 Seaborn
 
 # Output
-Confusion Matrix: Visualized using a Seaborn heatmap.<br>
-Accuracy Score: Displays model performance.
+Confusion Matrix -> Visualized using a Seaborn heatmap.<br>
+Accuracy Score -> Displays model performance.
