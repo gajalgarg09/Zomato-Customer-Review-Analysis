@@ -2,10 +2,10 @@
 This project analyzes Zomato customer reviews to classify sentiments as positive or negative using Natural Language Processing (NLP) techniques.
 
 # Features
-Cleans and preprocesses text data.  <br>
+Cleans and preprocesses text data.<br>
 Converts reviews into numerical vectors using Bag of Words.<br>
 Trains a Naive Bayes classifier for sentiment prediction.<br>
-Evaluates performance with a confusion matrix and accuracy score. <br>
+Evaluates performance with a confusion matrix and accuracy score.<br>
 
 # Technologies Used
 Python<br>
